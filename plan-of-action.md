@@ -1,7 +1,7 @@
 ## Tasks for Learners 
 ---
 
-#### DAY 0 - PARKING LOT
+#### PRE WORKSHOP
 
 - Cognitive Ability Test
 
