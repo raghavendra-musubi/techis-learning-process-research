@@ -39,5 +39,5 @@
 - Teach 
   - Create Learning Content
 - Build Useful Programs
-  - using learned content
+  - Using Learned Content
 
