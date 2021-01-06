@@ -12,8 +12,8 @@
 #### DAY 2 - Goal Setting
 
 - To-Do Lists
-- Due Dates
-- Scope Setting
+  - Due Dates
+  - Scope Setting
 - Defining Success
 - Building Momentum
 
@@ -30,6 +30,7 @@
   - Calendar and Phone Notifications
   - Pomodoro Technique
 - Experimentation 
+  - Failure Driven Learning
 - Summarization 
   - Recall Notes
 - Sleep 
