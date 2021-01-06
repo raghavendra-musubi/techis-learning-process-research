@@ -22,12 +22,13 @@
 - Google Search 
 - Documentation 
 - Filtering Irrelevant Resources
-- Time Management 
-  - Calendar and Phone Notifications
-  - Pomodoro Technique
+
 
 #### DAY 4 - Learning Processes
 
+- Time Management 
+  - Calendar and Phone Notifications
+  - Pomodoro Technique
 - Experimentation 
 - Summarization 
   - Recall Notes
